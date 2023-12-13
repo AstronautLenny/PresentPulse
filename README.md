@@ -1,5 +1,14 @@
-# PresentPulse
+![image](https://github.com/LeonardTheMagnificent/PresentPulse/assets/71563284/6dc47b49-96b8-4ecb-bdad-5a43a132018b)# PresentPulse
 This repo contains documents related to the Present Pulse project created for ME313 (Instrumentation and Data Aquisition). ME313 is a required course for the Mechanical Engineering Bachelor's Program at Embry-Riddle Aeronautical University in Daytona Beach Florida.
+
+Motivations:
+1. Modern technology significantly contributes to the stress experienced by individuals worldwide.
+2. Meditation is a tool that has long been utilized for stress reduction.
+3. Biometric sensors are the modern technology that enable the investigation of meditation
+
+Abstract:
+In John L. Mason's "Guide to Stress Reduction," an elevated pulse rate is identified as a key characteristic of the stress response. This research aims to investigate the influence of meditation on an individual's pulse rate and in turn their stress levels through biometric sensing. Significant progress has been made on a biometric data collection device, PresentPulse, in the areas of Arduino and MATLAB code, 3D printing, circuit design and soldering, hardware assembly, and biometric data collection and analysis. This investigation represents a crucial step towards a more mindful and stress-resilient society including the aviation community.
+
 
 Version 2 glove and station hardware:
 ![PresentPulseGlove](https://github.com/LeonardTheMagnificent/PresentPulse/assets/71563284/6a1319b1-b2b2-4d7d-acea-32cf6eed6710)
